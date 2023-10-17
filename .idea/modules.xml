@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/springboot-transaction.iml" filepath="$PROJECT_DIR$/.idea/springboot-transaction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaExpriment.iml" filepath="$PROJECT_DIR$/.idea/JavaExpriment.iml" />
     </modules>
   </component>
 </project>
